@@ -1,0 +1,20 @@
+# JAAD data (download from the official source)
+JAAD/
+frames_out/
+output/examples/
+ablation_examples/
+# local working files
+backup/
+smoke/
+output/.sync.tgz
+output/*.log
+__pycache__/
+.DS_Store
+frames_v2_out/
+kernels/ssh/
+# personal Kaggle/Cloudflare tooling and run logs
+overnight*.sh
+kernels/*/kernel-metadata.json
+kernels/frames_v2_ws/
+output_v2/
+output_v2_*.log
